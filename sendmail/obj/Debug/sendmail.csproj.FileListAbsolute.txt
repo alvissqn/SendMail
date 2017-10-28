@@ -1,0 +1,9 @@
+E:\thuchanhc#\sendmail\sendmail\bin\Debug\sendmail.exe.config
+E:\thuchanhc#\sendmail\sendmail\bin\Debug\sendmail.exe
+E:\thuchanhc#\sendmail\sendmail\bin\Debug\sendmail.pdb
+E:\thuchanhc#\sendmail\sendmail\obj\Debug\sendmail.exe
+E:\thuchanhc#\sendmail\sendmail\obj\Debug\sendmail.pdb
+E:\thuchanhc#\sendmail\sendmail\obj\Debug\sendmail.csprojResolveAssemblyReference.cache
+E:\thuchanhc#\sendmail1\sendmail\bin\Debug\sendmail.exe.config
+E:\thuchanhc#\sendmail1\sendmail\obj\Debug\sendmail.exe
+E:\thuchanhc#\sendmail1\sendmail\obj\Debug\sendmail.pdb
